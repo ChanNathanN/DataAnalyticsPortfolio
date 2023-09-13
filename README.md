@@ -9,5 +9,7 @@ This is a Repository to share projects I have taken on, showcase skills, and kee
 ### Analyzing Factors that Determine Housing Prices
 
 **Goal:** To create an a quality linear regression model to predict housing prices using a variety of quantitative and qualitative variables. 
+
 **Description:** This project focused on analyzing a random dataset of 560 houses in King's County, Washington in 2014 and 2015. The aim for this data is to predict the sale prices of homes in this county. The project involved loading in the data, cleaning and processing it, performing exploratory data analysis (EDA), analyzing the correlation between prices and various variables, and iterating through different versions of linear models. 
+
 **Skills:** Data Cleaning, Data Analysis, Linear Regression, Multicollinearity Diagnosis
