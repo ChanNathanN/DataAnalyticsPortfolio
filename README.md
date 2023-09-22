@@ -6,8 +6,7 @@ This is a Repository to share projects I have taken on, showcase skills, and kee
 
 ## Portfolio Projects
 
-### Analyzing Factors that Determine Housing Prices
-### [Link](https://github.com/nathnchan/kchousing)
+### [Analyzing Factors that Determine Housing Prices](https://github.com/nathnchan/kchousing)
 
 **Goal:** To create an a quality linear regression model to predict housing prices using a variety of quantitative and qualitative variables. 
 
